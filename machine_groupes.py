@@ -1,5 +1,4 @@
 #-*- coding: utf-8 -*-
-import random
 
 json_student_list = [{
         "last_name": "Fayeulle",
